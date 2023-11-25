@@ -1,0 +1,12 @@
+{
+  "Id": "DefaultRations",
+  "DisplayName": "Default Rations",
+  "Author": "various-sundry",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.8",
+  "Requirements": [],
+  "AssemblyName": "DefaultRations.dll",
+  "EntryMethod": "DefaultRations.Main.Load",
+  "HomePage": "https://www.nexusmods.com/pathfinderkingmaker/mods/299",
+  "Repository": "https://raw.githubusercontent.com/various-sundry/PFKDefaultRations/master/Repository.json"
+}
